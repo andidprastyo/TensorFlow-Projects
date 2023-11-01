@@ -20,7 +20,7 @@ To get started with TensorFlow learning, follow these steps:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/TensorFlow-Projects.git
+   git clone https://github.com/andidprastyo/TensorFlow-Projects.git
    cd TensorFlow-Projects
    ```
 
@@ -37,7 +37,7 @@ To get started with TensorFlow learning, follow these steps:
 
 In this repository, you'll find a collection of projects aimed at different skill levels. Explore the projects to learn TensorFlow by doing:
 
--
+- Messy vs Clean Room Detection
 -
 -
 
