@@ -38,7 +38,7 @@ To get started with TensorFlow learning, follow these steps:
 In this repository, you'll find a collection of projects aimed at different skill levels. Explore the projects to learn TensorFlow by doing:
 
 - Messy vs Clean Room Detection
--
+- Rock, Paper, Scissor Hand Detection
 -
 
 Feel free to suggest new projects or contribute to existing ones!
